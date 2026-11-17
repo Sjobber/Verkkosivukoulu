@@ -190,3 +190,7 @@ table {
     background-color: lightseagreen;
   }
 }
+img {
+  max-width: 10%;
+  height: auto;
+}
